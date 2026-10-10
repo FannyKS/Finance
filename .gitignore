@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+*~
+
+# Generated reports (contain personal financial data)
+report.txt
+report.html
+dashboard.html
+
+# Generated data & logs (snapshots, value history, run logs)
+data/
+
+# Source statements / screenshots (personal)
+statements/
+
+# Personal holdings data / any CSVs
+holdings.csv
+*.csv
